@@ -1,0 +1,22 @@
+{
+    "MTI": "1200",
+    "field126": "Funds Transfer",
+    "field102": "0161002000011",
+    "field112": "00250025202309202054135GEKQOJU",
+    "field123": "Customer",
+    "field100": "PESALINK",
+    "source": "IPSL",
+    "field11": "205422",
+    "field12": "205422",
+    "field0": "1200",
+    "field32": "APP",
+    "field15": "0920",
+    "field37": "miwmm8gTak",
+    "field13": "0920",
+    "field24": "BB",
+    "field7": "0920205422",
+    "CorrelationID": "miwmm8gTak",
+    "field3": "260000",
+    "field2": "254727519227",
+    "field4": "100.00"
+}
